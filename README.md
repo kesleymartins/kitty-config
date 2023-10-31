@@ -3,13 +3,12 @@ My personal kitty terminal config
 
 ## Dependencies 
 
-[JetBrainsMono font](https://github.com/ryanoasis/nerd-fonts/releases)
-[Kitty](https://sw.kovidgoyal.net/kitty/)
+- [JetBrainsMono font](https://github.com/ryanoasis/nerd-fonts/releases)
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
 
 ## Installation
 
-### Dependencies
-#### Fedora
+### Fedora
 ```sh
 sudo dnf install kitty
 ```

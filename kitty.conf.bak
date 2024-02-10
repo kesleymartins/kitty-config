@@ -3,6 +3,6 @@ font_size 13
 
 
 # BEGIN_KITTY_THEME
-# Dimmed Monokai
+# Catppuccin-Mocha
 include current-theme.conf
 # END_KITTY_THEME
